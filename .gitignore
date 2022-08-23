@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+#config
+config.py
+API_practice.ipynb
+random_numbers.ipynb
 
 # Distribution / packaging
 .Python
